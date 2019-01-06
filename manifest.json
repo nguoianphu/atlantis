@@ -5,7 +5,7 @@
   "background_color": "#ffffff",
   "display": "fullscreen",
   "orientation": "landscape",
-  "start_url": "/",
+  "start_url": "/atlantis/",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",
